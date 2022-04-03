@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I have a keen interest in Data Mining and Analytics.
 - 💬 Ask me about Web Development and Data Analysis.
 - 📫 How to reach me: imaduddin6945@gmail.com
-- 😄 Pronouns: he/Hims
+- 😄 Pronouns: he/Him
 - ⚡ Fun fact: Code until you find the fun in doing it!
